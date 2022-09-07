@@ -1,4 +1,4 @@
-1. Create a decentralized NFT MarketPlace
+1. A Decentralized NFT MarketPlace Smart Contract
     1. `listItem`: List NFTs on the marketplace
     2. `buyItem` : Buy the NFTs
     3. `cancelItem`: Cancel a listing
